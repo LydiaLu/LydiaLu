@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LydiaLu
 - 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning Go & Rust
+- 🌱 I’m using Python and currently learning Go & Rust
 - 📫 How to reach me: wxluzhihong@gmail.com
 
 <!---
